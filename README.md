@@ -4,36 +4,36 @@ Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software
 
 ## Funcionalidades 🚀
 
-4 páginas HTML interconectadas.
-Navegação entre as páginas através de links.
-Estilo visual aplicado com CSS.
+- 4 páginas HTML interconectadas.
+- Navegação entre as páginas através de links.
+- Estilo visual aplicado com CSS.
 
 ## Tecnologias Utilizadas 🛠️
 
-HTML: Estrutura das páginas.
-CSS: Estilização das páginas.
+- HTML: Estrutura das páginas.
+- CSS: Estilização das páginas.
 
 ## Estrutura do Projeto 📂
 
 O projeto contém as seguintes páginas:
 
-index.html
-about.html
-contact.html 
-marketplace.html
-stock.html
+- index.html
+- about.html
+- contact.html 
+- marketplace.html
+- stock.html
 
 ## Como Usar 🖥️
 
 Clone este repositório em sua máquina local:
 ```
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/bryancalvarenga/pi_ex012.git
 ```
 Abra o diretório do projeto:
 ```
-cd NOME_DO_REPOSITORIO
+cd pi_ex012
 ```
-Abra os arquivos .html em um navegador para visualizar o site.
+Abra o arquivo index.html em um navegador para visualizar o site.
 
 ## Contribuições 💡
 
